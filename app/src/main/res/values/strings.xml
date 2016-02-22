@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestRecord</string>
+    <string name="recording">录音中...</string>
+    <string name="ends">hello</string>
+</resources>
